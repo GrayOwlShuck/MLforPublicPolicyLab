@@ -5,7 +5,7 @@ We'll keep adding readings on topics we talk about in class to this repo. Feel f
 ## Temporal/Concept Drift
 + [Learning under Concept Drift: an Overview] (https://arxiv.org/pdf/1010.4784.pdf)
 + [Tackling concept drift by temporal inductive transfer] (http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.86.1405)
-+ [Dynamic weighted majority: An ensemble method for drifting concepts.] (http://www.zicokolter.com/wp-content/uploads/2015/10/kolter-jmlr07.pdf)
++ [Dynamic weighted majority: An ensemble method for drifting concepts.] (http://www.jmlr.org/papers/volume8/kolter07a/kolter07a.pdf)
 + [Mining concept-drifting data streams using ensemble classifiers.] (http://hanj.cs.illinois.edu/pdf/kdd03_emsemble.pdf)
 
 ## Model Interpretabilithy and Explanations
