@@ -15,3 +15,6 @@ We'll keep adding readings on topics we talk about in class to this repo. Feel f
 + [Building Interpretable Classifiers with Rules using Bayesian Analysis] (https://www.stat.washington.edu/research/reports/2012/tr609.pdf)
 
 ## Bias
+
++ [Certifying and Removing Disparate Impact](http://sorelle.friedler.net/papers/kdd_disparate_impact.pdf)
++ [On the relation between accuracy and fairness in binary classification] (https://arxiv.org/pdf/1505.05723.pdf)
