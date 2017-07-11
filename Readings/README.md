@@ -13,6 +13,9 @@ We'll keep adding readings on topics we talk about in class to this repo. Feel f
 + [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](http://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)
 + [ How to explain individual classification decisions](http://is.tuebingen.mpg.de/fileadmin/user_upload/files/publications/baehrens10a_[0].pdf)
 + [Building Interpretable Classifiers with Rules using Bayesian Analysis](https://www.stat.washington.edu/research/reports/2012/tr609.pdf)
++ [Towards Interrogating Discriminative Machine Learning Models](http://arxiv.org/abs/1705.08564)
++ [Interpreting Blackbox Models via Model Extractioninterpretation](http://arxiv.org/abs/1705.08504)
++ [Explaining machine learning models in sales predictions](http://www.sciencedirect.com/science/article/pii/S0957417416306327)
 
 ## Bias
 
