@@ -11,6 +11,7 @@ We'll keep adding readings on topics we talk about in class to this repo. Feel f
 ## Model Interpretabilithy and Explanations
 + [Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30 day Readmission](http://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf)
 + [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](http://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)
++ [Learning Optimized Risk Scores on Large-Scale Datasets] (https://arxiv.org/abs/1610.00168)
 + [ How to explain individual classification decisions](http://is.tuebingen.mpg.de/fileadmin/user_upload/files/publications/baehrens10a_[0].pdf)
 + [Building Interpretable Classifiers with Rules using Bayesian Analysis](https://www.stat.washington.edu/research/reports/2012/tr609.pdf)
 + [Towards Interrogating Discriminative Machine Learning Models](http://arxiv.org/abs/1705.08564)
